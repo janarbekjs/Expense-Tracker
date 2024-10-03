@@ -1,0 +1,27 @@
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.chart_list {
+  height: 108px;
+  border: 1px solid;
+  background-color: #a892ee;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+
+  overflow: hidden;
+}
+
+.chart-label {
+  font-size: 9px;
+  font-weight: 600;
+  color: #000;
+}
+
+.chart-bar {
+  background-color: #4826b9;
+}

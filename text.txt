@@ -1,0 +1,24 @@
+src
+|--- commponents-|  
+|                |------UI----|- Button.css
+|                |            |- Button.jsx
+|                |            |- Input.jsx
+|                |            |- FormInput.jsx
+|                | 
+|                |
+|                |------- new-expense -|
+                 |                     |-- ExpenseForm.jsx
+                 |                     |-- NexExpense.jsx
+				 |					   |
+				 |					   |									                         
+                 |                     |-- 
+				 |
+				 |
+				 |
+				 |------ expenses -|
+				                   |-- Expenses.jsx
+								   |-- ExpensesList.jsx
+								   |-- ExpenseItem.jsx
+								   |
+								   
+

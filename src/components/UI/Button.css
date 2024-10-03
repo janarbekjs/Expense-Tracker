@@ -1,0 +1,22 @@
+button {
+  padding: 16px 18px;
+  background-color: #4a026b;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+button:active {
+  animation-name: button-animation;
+  animation-duration: 1.2s;
+}
+
+@keyframes button-animation {
+  from {
+    transform: scale(0.99);
+  }
+  to {
+    transform: scale(1);
+  }
+}
